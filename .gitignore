@@ -1,5 +1,4 @@
 # ignore all the latex output crap
-*.pdf
 *.aux
 *.log
 *.nav
